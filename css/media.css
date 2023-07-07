@@ -1,0 +1,650 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  /* common items */
+  .commonbutton {
+    padding: 14px 32px;
+    font-size: 14px;
+  }
+  .titlebox span {
+    font-size: 16px;
+  }
+  .titlebox h3 {
+    font-size: 36px;
+  }
+  .titlebox h3 span {
+    font-size: 36px;
+  }
+  /* off-canvas starts */
+  .image-logo {
+    width: 100%;
+  }
+  .image-logo svg {
+    width: 110px;
+    height: 70px;
+  }
+  .cus-nav {
+    text-align: center;
+    margin: 60px auto 0;
+  }
+  .cus-navbar {
+    background: linear-gradient(#fd4d4d, #fec983);
+  }
+  /* off-canvas starts */
+  /* banner starts */
+  .banner {
+    padding: 20px 0 20px;
+  }
+  .banner-row {
+    margin-top: 100px;
+  }
+  .banner-title {
+    text-align: center;
+  }
+  .banner-title h1 {
+    font-size: 34px;
+  }
+  .banner-title p {
+    font-size: 16px;
+  }
+  .banner-right {
+    margin-top: 40px;
+  }
+  .lara_banner,
+  .react_banner {
+    width: 100px;
+  }
+  /* banner ends */
+  /* about starts */
+  .aboutus {
+    padding: 40px 0;
+  }
+  .about-right {
+    margin-top: 50px;
+  }
+
+  /* about ends */
+  /* service */
+  .sv_box {
+    height: auto;
+  }
+  .services {
+    padding: 40px 0;
+  }
+
+  .sv_box .sv_icon {
+    height: 65px;
+    width: 65px;
+  }
+  .sv_box .box_contents h3 {
+    margin: 20px 0;
+    font-size: 27px;
+    color: #111111;
+  }
+
+  /* service ends */
+  /* ins */
+  .instructor_section {
+    padding: 40px 0;
+  }
+  .instuctor-titlebox h3 span {
+    font-size: 34px;
+  }
+  .instuctor-titlebox {
+    padding-bottom: 40px;
+  }
+  .intructor-intro p {
+    font-size: 16px;
+    word-spacing: 2px;
+  }
+  /* ins ends */
+  /* team starts */
+  .second-instructor {
+    padding: 40px 0px;
+  }
+  .ins-info {
+    margin: 50px 0px 0px;
+  }
+  .titlebox {
+    padding-bottom: 10px;
+  }
+  .team-button {
+    margin-top: 20px;
+  }
+  /* team ends */
+  /* contact */
+  .contact-section {
+    padding: 20px 0px 40px;
+  }
+  .contact-form {
+    margin-top: 20px;
+  }
+  .custom-form {
+    margin-bottom: 26px;
+  }
+  .form-control {
+    font-size: 0.9rem;
+  }
+  /* contact ends */
+  /* faq */
+  .faq {
+    padding: 50px 0;
+  }
+  .faq_row {
+    padding-bottom: 0;
+  }
+  /* faq ends */
+  /* footer */
+  footer {
+    text-align: center;
+    padding: 50px 0px 10px;
+  }
+  .footer-address {
+    margin-left: 0px;
+  }
+  .footer-head p {
+    padding-top: 10px;
+  }
+  .footer-head {
+    margin-top: 40px;
+  }
+  .footer-social-icon {
+    margin-top: 30px;
+  }
+  .footer-social-icon a i {
+    font-size: 22px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+  }
+  /* footer ends */
+  /* ========== check out ========= */
+  .container-margin {
+    margin-top: 50px;
+  }
+  .check-logo {
+    width: auto;
+  }
+  .checkout_details p {
+    font-size: 16px;
+    font-weight: 700;
+  }
+  .checkout_details p span {
+    display: block;
+    font-size: 21px;
+  }
+  .checkout_validation {
+    margin-top: 30px;
+  }
+  .checkout_form {
+    padding: 50px 0 50px;
+  }
+  .form-items {
+    font-size: 16px;
+  }
+  .course_detail_section {
+    padding: 40px 0;
+  }
+  .course_details p {
+    font-size: 16px;
+  }
+  /* ========== check out ends ========= */
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* off-canvas starts */
+  .cus-nav {
+    text-align: center;
+    margin: 60px auto 0;
+  }
+  .cus-navbar {
+    background: linear-gradient(#fd4d4d, #fec983);
+  }
+  .image-logo {
+    width: 100%;
+  }
+  .image-logo svg {
+    width: 140px;
+    height: 80px;
+  }
+  /* off-canvas ends */
+  /* banner starts */
+  .banner {
+    padding: 40px 0 40px;
+  }
+  .banner-row {
+    margin-top: 100px;
+  }
+  .banner-title h1 {
+    font-size: 40px;
+  }
+  .banner-title p {
+    font-size: 18px;
+  }
+
+  .banner-title {
+    text-align: center;
+  }
+
+  .banner-right {
+    margin-top: 50px;
+  }
+  /* banner ends */
+  /* about starts */
+  .aboutus {
+    padding: 50px 0;
+  }
+  .about-right {
+    margin-top: 50px;
+  }
+  /* about ends */
+  /* service  */
+  .sv_box {
+    height: auto;
+  }
+  .services {
+    padding: 50px 0;
+  }
+  .sv_box .box_contents h3 {
+    font-size: 27px;
+  }
+  /* service ends */
+  /* ins */
+  .instructor_section {
+    padding: 50px 0;
+  }
+  .ins-intro {
+    text-align: center;
+  }
+  .titlebox h3 {
+    text-align: center;
+  }
+  .intructor-intro p {
+    font-size: 16px;
+  }
+  /* ins ends */
+  /* team starts */
+  .second-instructor {
+    padding: 50px 0px;
+  }
+  .ins-info {
+    margin: 50px 0px 0px;
+  }
+  .titlebox {
+    padding-bottom: 20px;
+  }
+  .team-button {
+    margin-top: 20px;
+  }
+  /* team ends */
+  /* contact */
+  .contact-section {
+    padding: 40px 0px;
+  }
+  .contact-form {
+    margin-bottom: 20px;
+  }
+  .custom-form {
+    margin-bottom: 34px;
+  }
+  /* contact ends */
+  /* faq */
+  .faq {
+    padding: 60px 0px;
+  }
+  .faq_row {
+    padding-bottom: 0px;
+  }
+  /* faq ends */
+  /* footer */
+  footer {
+    text-align: center;
+    padding: 60px 0px 20px;
+  }
+  .footer-address {
+    margin-left: 0px;
+  }
+  .footer-head p {
+    padding-top: 10px;
+  }
+  .footer-head {
+    margin-top: 40px;
+  }
+  .footer-social-icon {
+    margin-top: 60px;
+  }
+  /* footer ends */
+  /* ========== check out ========= */
+  .container-margin {
+    margin-top: 70px;
+  }
+  .check-logo {
+    width: auto;
+  }
+  .checkout_details p {
+    font-size: 16px;
+    font-weight: 700;
+  }
+  .checkout_details p span {
+    /* display: block; */
+    margin-left: 10px;
+    font-size: 21px;
+  }
+  .checkout_validation {
+    margin-top: 30px;
+  }
+  .form-items {
+    font-size: 16px;
+  }
+  .checkout_form {
+    padding: 50px 0 50px;
+  }
+  .course_detail_section {
+    padding: 40px 0;
+  }
+  .course_details p {
+    font-size: 16px;
+  }
+  /* ========== check out ends ========= */
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /* off-canvas starts */
+  .cus-nav {
+    text-align: center;
+    margin: 60px auto 0;
+  }
+  .cus-navbar {
+    background: linear-gradient(#fd4d4d, #fec983);
+  }
+  .image-logo {
+    width: 100%;
+  }
+  .image-logo svg {
+    width: 160px;
+    height: 90px;
+  }
+  /* off-canvas ends */
+  /* banner starts */
+  .banner {
+    padding: 40px 0 50px;
+  }
+  .banner-row {
+    margin-top: 110px;
+  }
+  .banner-right {
+    margin-top: 50px;
+  }
+  .lara_banner,
+  .react_banner {
+    width: 200px;
+  }
+  /* banner ends */
+  /* about starts */
+  .aboutus {
+    padding: 60px 0;
+  }
+  .about-right {
+    margin-top: 50px;
+  }
+  /* about ends */
+  /* service */
+
+  .services {
+    padding: 60px 0;
+  }
+  /* service ends */
+  /* ins */
+  .instructor_section {
+    padding: 60px 0;
+  }
+  /* ins ends */
+  /* team starts */
+  .second-instructor {
+    padding: 60px 0px;
+  }
+  .ins-info {
+    margin: 50px 10px 0px;
+  }
+  .ins-intro {
+    text-align: center;
+  }
+  .ins h3 {
+    text-align: center;
+  }
+  .titlebox {
+    padding-bottom: 20px;
+  }
+  .team-button {
+    margin-top: 20px;
+  }
+  /* team ends */
+  /* contact */
+  .contact-section {
+    padding: 60px 0px;
+  }
+  /* contact ends */
+  /* testimonial */
+  .testimonial {
+    min-height: 650px;
+  }
+  /* test ends */
+  /* faq */
+  .faq {
+    padding: 60px 0;
+  }
+  .faq_row {
+    padding-bottom: 10px;
+  }
+  /* faq ends */
+  /* footer */
+  footer {
+    text-align: center;
+    padding: 60px 0px 20px;
+  }
+  .footer-address {
+    margin-left: 0px;
+  }
+  .footer-head p {
+    padding-top: 10px;
+  }
+  .footer-head {
+    margin-top: 40px;
+  }
+  .footer-social-icon {
+    margin-top: 60px;
+  }
+  /* footer ends */
+  /* ========== check out ========= */
+  .container-margin {
+    margin-top: 80px;
+  }
+  .check-logo {
+    width: auto;
+  }
+  .checkout_details p {
+    font-size: 18px;
+    font-weight: 700;
+  }
+  .checkout_details p span {
+    /* display: block; */
+    margin-left: 10px;
+    font-size: 24px;
+  }
+  .checkout_validation {
+    margin-top: 50px;
+  }
+  .form-items {
+    font-size: 18px;
+  }
+  .checkout_form {
+    padding: 50px 0 50px;
+  }
+  .course_detail_section {
+    padding: 40px 0;
+  }
+  .course_details p {
+    font-size: 16px;
+  }
+  .course_image {
+    width: 50%;
+    margin: 0 auto;
+  }
+  /* ========== check out ends ========= */
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  /* banner */
+  .banner {
+    padding: 40px 0 70px;
+  }
+  /* banner ends */
+  /* about */
+  .aboutus {
+    padding: 70px 0;
+  }
+  /* about us */
+  /* service */
+  .services {
+    padding: 70px 0;
+  }
+  .sv_box .box_contents h3 {
+    font-size: 28px;
+  }
+  .sv_box {
+    padding: 25px 17px;
+  }
+  /* service ends */
+  /* ins */
+  .instructor_section {
+    padding: 70px 0px 50px;
+  }
+  /* ins ends */
+  /* team starts */
+  .second-instructor {
+    padding: 70px 0px;
+  }
+  .ins-info {
+    margin: 0px;
+  }
+  .titlebox {
+    padding-bottom: 20px;
+  }
+  .team-button {
+    margin-top: 20px;
+  }
+  /* team ends */
+  /* contact */
+  .contact-section {
+    padding: 70px 0px;
+  }
+  /* contact ends */
+  /* testimonial */
+  .testimonial::after {
+    background-color: transparent;
+    background-image: linear-gradient(
+      120deg,
+      rgba(0, 0, 0, 0.5) 60%,
+      rgba(255, 255, 255, 0) 40%
+    );
+  }
+  /* testimonial ends */
+  /* faq */
+  .faq {
+    padding: 70px 0;
+  }
+  .faq_row {
+    padding-bottom: 0px;
+  }
+  /* faq ends */
+  /* footer */
+  footer {
+    text-align: center;
+    padding: 70px 0px 30px;
+  }
+  .footer-details p {
+    padding: 0 12%;
+  }
+  .footer-head p {
+    padding-top: 10px;
+  }
+  .footer-address {
+    margin-left: 0px;
+  }
+  .footer-head p {
+    padding-top: 10px;
+  }
+  .footer-head {
+    margin-top: 40px;
+  }
+  .footer-social-icon {
+    margin-top: 60px;
+  }
+  /* footer ends */
+  /* ========== check out ========= */
+  .check-logo {
+    width: auto;
+  }
+  .checkout_details p {
+    font-size: 18px;
+    font-weight: 700;
+  }
+  .checkout_details p span {
+    /* display: block; */
+    margin-left: 10px;
+    font-size: 24px;
+  }
+  .form_row {
+    margin-top: 40px;
+  }
+  .form-items {
+    font-size: 14px;
+  }
+  .checkout_form {
+    padding: 50px 0 50px;
+  }
+  .course_detail_section {
+    padding: 40px 0;
+  }
+  .course_details p {
+    font-size: 18px;
+  }
+
+  /* ========== check out ends ========= */
+}
+
+/* Extra Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  .testimonial::after {
+    background-color: transparent;
+    background-image: linear-gradient(
+      125deg,
+      rgba(0, 0, 0, 0.5) 59%,
+      rgba(255, 255, 255, 0) 41%
+    );
+  }
+  /* footer */
+  .footer-head,
+  .footer-social-icon {
+    margin-top: 60px;
+  }
+}
+
+/* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+  .testimonial::after {
+    background-color: transparent;
+    background-image: linear-gradient(
+      115deg,
+      rgba(0, 0, 0, 0.5) 58%,
+      rgba(255, 255, 255, 0) 28%
+    );
+  }
+  /* footer */
+  .footer-head,
+  .footer-social-icon {
+    margin-top: 60px;
+  }
+}

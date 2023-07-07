@@ -1,0 +1,56 @@
+.checkout_form {
+  padding: 50px 0 100px 0;
+  font-size: 18px;
+}
+.form_row {
+  margin-top: 20px;
+}
+.form_box {
+}
+.checkout_form form {
+  padding: 20px;
+  padding-bottom: 50px;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+  border-radius: 15px;
+}
+.form-items {
+  margin-top: 25px;
+}
+
+.checkout_form form label {
+  font-weight: 500;
+}
+.form-control {
+}
+.form-control:focus,
+.form-select:focus {
+  color: black;
+  background-color: #fff;
+  border: 1px solid transparent;
+  outline: 0;
+  box-shadow: 0 0 0 0.25rem rgb(255, 77, 0, 0.2);
+}
+
+.checkout_form p {
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.checkout_form p span {
+  color: var(--maincolor);
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.course_detail_section {
+  padding: 100px 0;
+  background: rgb(247, 247, 247);
+}
+.course_details {
+  font-size: 20px;
+}
+.course_details p {
+}
+.course_details p span {
+  margin-right: 5px;
+  color: var(--maincolor);
+}
